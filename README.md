@@ -5,7 +5,6 @@
 
 ---
 
-
 <p align="center">
   <a href="https://github.com/rivenirvana/github-readme-stats" title="GitHub Readme Stats"><img src="https://github-readme-stats.vercel.app/api?username=truonghdpk&show_icons=true&theme=default&count_private=true&show_icons=true" width=60.40%" height="220" alt="github stats" /></a>
   <a href="https://github.com/rivenirvana/github-readme-stats" title="GitHub Readme Stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=truonghdpk&layout=compact" width="39%" height="220" alt="top languages" /></a>
@@ -34,6 +33,7 @@
   <a title="Terminal"><img src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png" alt="terminal logo" width="36" height="36" /></a>
   <atitle="Visual Studio Code"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="visual-studio-code logo" width="36" height="36" /></a>
   <atitle="Angular">
+  <a>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" width="100" height="100" alt="angular logo" width="36" height="36"/>
   </a>
 </p>
@@ -50,5 +50,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
+  -->
