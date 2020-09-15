@@ -31,11 +31,6 @@
   <a title="Linux"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="linux logo" width="36" height="36" /></a>
   <a title="Bash"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" alt="bash logo" width="36" height="36" /></a>
   <a title="Terminal"><img src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png" alt="terminal logo" width="36" height="36" /></a>
-  <atitle="Visual Studio Code"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="visual-studio-code logo" width="36" height="36" /></a>
-  <atitle="Angular">
-  <a>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" width="100" height="100" alt="angular logo" width="36" height="36"/>
-  </a>
 </p>
 
 ---
