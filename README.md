@@ -1,7 +1,7 @@
 # truonghdpk
 
 <h1 align="center">Hallo 👋, I'm Truong Kyle 👨‍💻</h1>
-<h3 align="center">Currently I'm verry happy today, Working smart connect together make our world beautiful</h3>
+<h3 align="center">Currently I'm verry happy today, Working smart connect together make our the world more beautiful</h3>
 
 ---
 
