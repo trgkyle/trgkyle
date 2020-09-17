@@ -35,6 +35,8 @@
   <a title="Docker"><img src="https://d1q6f0aelx0por.cloudfront.net/product-logos/library-docker-logo.png" alt="terminal logo" width="36" height="36" /></a>
   <a title="Traefik"><img src="https://d1q6f0aelx0por.cloudfront.net/product-logos/library-traefik-logo.png" alt="terminal logo" width="36" height="36" /></a>
   <a title="Vendure"><img src="https://www.vendure.io/logo.png" alt="terminal logo" width="36" height="36" /></a>
+  <a title="Nestjs"><img src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" alt="terminal logo" width="36" height="36" /></a>
+  <a title="Type-orm"><img src="https://github.com/typeorm/typeorm/raw/master/resources/logo_big.png" alt="terminal logo" width="36" height="36" /></a>
   
 </p>
 
