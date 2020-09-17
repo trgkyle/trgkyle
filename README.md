@@ -31,6 +31,7 @@
   <a title="Linux"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="linux logo" width="36" height="36" /></a>
   <a title="Bash"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" alt="bash logo" width="36" height="36" /></a>
   <a title="Terminal"><img src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png" alt="terminal logo" width="36" height="36" /></a>
+  <a title="Open-core"><img src="https://dortania.github.io/OpenCore-Install-Guide/homepage.png" alt="terminal logo" width="36" height="36" /></a>
 </p>
 
 ---
