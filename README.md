@@ -34,6 +34,7 @@
   <a title="Open-core"><img src="https://dortania.github.io/OpenCore-Install-Guide/homepage.png" alt="terminal logo" width="36" height="36" /></a>
   <a title="Docker"><img src="https://d1q6f0aelx0por.cloudfront.net/product-logos/library-docker-logo.png" alt="terminal logo" width="36" height="36" /></a>
   <a title="Traefik"><img src="https://d1q6f0aelx0por.cloudfront.net/product-logos/library-traefik-logo.png" alt="terminal logo" width="36" height="36" /></a>
+  <a title="Vendure"><img src="https://www.vendure.io/logo.png" alt="terminal logo" width="36" height="36" /></a>
   
 </p>
 
