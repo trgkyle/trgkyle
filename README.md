@@ -21,7 +21,8 @@
   <a title="TypeScript"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript logo" width="36" height="36"  /></a>
   <a title="Node.js"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs logo" width="36" height="36" /></a>
   <a title="React"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react logo" width="36" height="36"  /></a>
-  <a title="Angular"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="react logo" width="36" height="36"  /></a>
+  <a title="Angular"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular logo" width="36" height="36"  /></a>
+  <a title="Vue"><img src="https://vuejs.org/images/logo.png" alt="vue logo" width="36" height="36"  /></a> 
   <a title="GraphQL"><img src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png" alt="graphql logo" width="36" height="36" /></a>
   <a title="MongoDB"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="mongodb logo" width="36" height="36" /></a>
   <a title="Git"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git logo" width="36" height="36" /></a>
