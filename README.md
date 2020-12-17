@@ -27,8 +27,6 @@
   <a title="MongoDB"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="mongodb logo" width="36" height="36" /></a>
   <a title="Git"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git logo" width="36" height="36" /></a>
   <a title="GitHub"><img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="github logo" width="36" height="36" /></a>
-  <a title="C"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="c logo" width="36" height="36" /></a>
-  <a title="C++"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp logo" width="36" height="36"  /></a>
   <a title="ESLint"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png"  alt="eslint logo" width="36" height="36"  /></a>
   <a title="Linux"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="linux logo" width="36" height="36" /></a>
   <a title="Bash"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" alt="bash logo" width="36" height="36" /></a>
@@ -40,7 +38,6 @@
   <a title="Vendure"><img src="https://www.vendure.io/logo.png" alt="terminal logo" width="36" height="36" /></a>
   <a title="Nestjs"><img src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" alt="terminal logo" width="36" height="36" /></a>
   <a title="Type-orm"><img src="https://github.com/typeorm/typeorm/raw/master/resources/logo_big.png" alt="terminal logo" width="36" height="36" /></a>
-  
 </p>
 
 ---
