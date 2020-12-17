@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/rivenirvana/github-readme-stats" title="GitHub Readme Stats"><img src="https://github-readme-stats.vercel.app/api?username=truonghdpk&show_icons=true&theme=default&count_private=true&show_icons=true" width=60.40%" height="220" alt="github stats" /></a>
-  <a href="https://github.com/rivenirvana/github-readme-stats" title="GitHub Readme Stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=truonghdpk&layout=compact" width="39%" height="220" alt="top languages" /></a>
+  <a href="https://github.com/rivenirvana/github-readme-stats" title="GitHub Readme Stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=truonghdpk&layout=compact" width=60.40%" height="220" alt="top languages" /></a>
 </p>
 
 ---
