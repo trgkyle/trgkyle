@@ -41,5 +41,5 @@
 
 ---
 <p align="center">
-<a href="https://app.daily.dev/truonghdpk"><img src="https://api.daily.dev/devcards/b8622a17c0f34ce0ac51e32a834560b7.png?r=v9i" width="400" alt="Kyle Truong's Dev Card"/></a>
+<a href="https://app.daily.dev/truonghdpk"><img src="https://api.daily.dev/devcards/b8622a17c0f34ce0ac51e32a834560b7.png?r=v9i" width="100" alt="Kyle Truong's Dev Card"/></a>
 </p>
