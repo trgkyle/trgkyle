@@ -4,7 +4,7 @@
 <h3 align="center">Currently I'm verry happy today, Working smart connect together make our the world more beautiful</h3>
 
 ---
-
+<a href="https://app.daily.dev/truonghdpk"><img src="https://api.daily.dev/devcards/b8622a17c0f34ce0ac51e32a834560b7.png?r=v9i" width="400" alt="Kyle Truong's Dev Card"/></a>
 <p align="center">
   <a href="https://github.com/rivenirvana/github-readme-stats" title="GitHub Readme Stats"><img src="https://github-readme-stats.vercel.app/api?username=truonghdpk&show_icons=true&theme=default&count_private=true&show_icons=true" width=60.40%" alt="github stats" /></a>
   <a href="https://github.com/rivenirvana/github-readme-stats" title="GitHub Readme Stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=truonghdpk&layout=compact" width=35.60%" alt="top languages" /></a>
