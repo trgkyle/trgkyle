@@ -1,7 +1,7 @@
 # truonghdpk
 
 <h1 align="center">Hallo 👋, I'm Truong Kyle 👨‍💻</h1>
-<h3 align="center">Not acctally all my repo, I have startup with <a href="https://github.com/venoftheme" target="_blank">my Organization team</a></h3>
+<h3 align="center">Not acctally all my repo, I have startup with <a href="https://github.com/venoftheme" target="_blank">Venoftheme organization team</a></h3>
 
 ---
 <p align="center">
