@@ -3,9 +3,10 @@
 <h1 align="center">Hallo 👋, I'm Truong Kyle 👨‍💻</h1>
 <h3 align="center">Not acctally all my repo, I have startup with <a href="https://github.com/venoftheme" target="_blank">Venoftheme organization team</a></h3>
 
+![github-readme-stats](https://github-readme-stats.vercel.app/api?username=truonghdpk&show_icons=true&count_private=true&theme=radical)
+![github-readme-stats-top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=truonghdpk&layout=compact&theme=radical)
 ---
 <p align="center">
-    <a href="https://github.com/rivenirvana/github-readme-stats" title="GitHub Readme Stats"><img src="https://github-readme-stats.vercel.app/api?username=truonghdpk&show_icons=true&theme=default&count_private=true&show_icons=true" width="100%" alt="github stats" /></a>
   <a href="https://app.daily.dev/truonghdpk"><img src="https://api.daily.dev/devcards/b8622a17c0f34ce0ac51e32a834560b7.png?r=v9i" width="30%" alt="Kyle Truong's Dev Card"/></a>
 </p>
 
