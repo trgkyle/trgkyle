@@ -1,5 +1,3 @@
-# trgkyle
-
 <h1 align="center">Hallo 👋, I'm Kyle N. 👨‍💻</h1>
 
 ![github-readme-stats](https://github-readme-stats.vercel.app/api?username=trgkyle&show_icons=true&count_private=true&theme=radical)
