@@ -1,12 +1,12 @@
-# truonghdpk
+# trgkyle
 
 <h1 align="center">Hallo 👋, I'm Kyle N. 👨‍💻</h1>
 
-![github-readme-stats](https://github-readme-stats.vercel.app/api?username=truonghdpk&show_icons=true&count_private=true&theme=radical)
-![github-readme-stats-top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=truonghdpk&layout=compact&theme=radical)
+![github-readme-stats](https://github-readme-stats.vercel.app/api?username=trgkyle&show_icons=true&count_private=true&theme=radical)
+![github-readme-stats-top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trgkyle&layout=compact&theme=radical)
 ---
 <p align="center">
-  <a href="https://app.daily.dev/truonghdpk"><img src="https://api.daily.dev/devcards/b8622a17c0f34ce0ac51e32a834560b7.png?r=v9i" width="30%" alt="Kyle Truong's Dev Card"/></a>
+  <a href="https://app.daily.dev/trgkyle"><img src="https://api.daily.dev/devcards/b8622a17c0f34ce0ac51e32a834560b7.png?r=v9i" width="30%" alt="Kyle Truong's Dev Card"/></a>
 </p>
 
 ---
